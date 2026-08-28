@@ -184,14 +184,10 @@
 <img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/> <br>
-</p>
 
-<p>
 <img src="https://img.shields.io/badge/CCNA%3A_Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/CCNA%3A_Switching%2C_Routing%2C_and_Wireless_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <br>
-</p>
 
-<p>
 <img src="https://img.shields.io/badge/CCNA%3A_Enterprise_Networking%2C_Security%2C_and_Automation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
