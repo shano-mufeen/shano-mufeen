@@ -1,16 +1,129 @@
-## Hi there 👋
+👋 Hi, I’m Shano Mufeen
 
-<!--
-**shano-mufeen/shano-mufeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Engineer | Networking & Infrastructure
 
-Here are some ideas to get you started:
+I build practical IT labs, networking projects, and troubleshooting solutions focused on real-world infrastructure and support environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on hands-on projects covering networking, systems, infrastructure, troubleshooting, and enterprise IT environments — while documenting what I build and learn along the way.
+
+⸻
+
+🧑‍💻 About Me
+
+* 🖥️ IT Support Engineer
+* 🌐 Building hands-on Networking & Infrastructure Labs
+* 🔧 Interested in Network Troubleshooting & IT Operations
+* 🏢 Focused on real-world Enterprise IT environments
+* 📚 Continuously developing practical technical skills
+* 🚀 Building projects specifically around job-ready IT & networking skills
+
+⸻
+
+🛠️ Technical Skills
+
+🌐 Networking
+
+TCP/IP IPv4 Subnetting VLAN DHCP DNS NAT
+OSPF HSRP ACL IPsec VPN Routing & Switching
+
+🖥️ Systems & IT Support
+
+Windows Windows Server Microsoft 365 VirtualBox
+System Troubleshooting User Support Incident Handling
+Access Management Technical Documentation
+
+🔧 Networking Tools
+
+Cisco IOS Cisco Packet Tracer
+
+💻 Software & Development
+
+HTML CSS JavaScript PHP SQL MySQL Git GitHub
+
+⸻
+
+🚀 What I’m Building
+
+🌐 Networking Labs
+
+Practical labs covering:
+
+* VLAN configuration
+* IP addressing & subnetting
+* Routing & switching
+* DHCP & DNS
+* OSPF
+* NAT
+* ACLs
+* VPN
+* Network troubleshooting
+
+🏢 Enterprise Infrastructure Labs
+
+Simulating real-world business environments with:
+
+* Multi-site network architecture
+* Network segmentation
+* Routing & redundancy
+* Network security
+* Infrastructure troubleshooting
+
+🖥️ IT Support Labs
+
+Hands-on scenarios involving:
+
+* Windows troubleshooting
+* User & system access
+* Software issues
+* Connectivity problems
+* Incident troubleshooting
+* Technical documentation
+
+⸻
+
+📂 Project Series
+
+I’m building my GitHub as a practical IT portfolio, not just a collection of code.
+
+Series	Focus
+🖥️ IT Support Labs	Real-world support & troubleshooting
+🌐 Networking Labs	Networking fundamentals & configuration
+🏢 Enterprise Network Labs	Enterprise infrastructure scenarios
+🔐 Network Security Labs	ACL, VPN & security concepts
+⚙️ Infrastructure Labs	Systems & IT infrastructure
+📚 Learning Projects	Concepts converted into practical labs
+
+Each project includes the objective, environment, configuration, troubleshooting process, and outcome.
+
+⸻
+
+🏆 Certifications & Learning
+
+* 🎓 Google IT Support Professional Certificate
+* ☁️ Microsoft Azure Fundamentals
+* ☁️ Microsoft 365 Essentials
+* 🌐 CCNA: Introduction to Networks
+* 🔀 CCNA: Switching, Routing, and Wireless Essentials
+* 🏢 CCNA: Enterprise Networking, Security, and Automation
+
+⸻
+
+📊 GitHub Activity
+
+⸻
+
+🏅 GitHub Badges
+
+⸻
+
+📫 Let’s Connect
+
+LinkedIn: linkedin.com/in/mufeen-shano
+
+Email: mufeenshano@gmail.com
+
+⸻
+
+💡 Build. Troubleshoot. Document. Improve.
+
+Turning what I learn into practical projects and real-world IT solutions.
