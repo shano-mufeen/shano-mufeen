@@ -1,11 +1,13 @@
 <!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:161B22,100:0A192F&text=SHANO%20MUFEEN&fontSize=48&fontColor=00FF9C&fontAlignY=42&desc=IT%20Support%20Engineer%20%7C%20Networking%20%26%20Infrastructure&descAlignY=62&descSize=18&animation=fadeIn"
-    width="100%"
-  />
-</p>
+
+<div align="center">
+
+<h1 style="font-family: 'JetBrains Mono', monospace; font-size: 42px;">
+  👋 Hi, I'm Shano Mufeen
+</h1>
+
+</div>
 
 <p align="center">
 
@@ -26,9 +28,7 @@
 <br>
 
 <p align="center">
-  <b>Building practical IT labs, networking projects, and troubleshooting solutions</b>
-  <br>
-  <sub>Focused on real-world infrastructure, systems and enterprise IT environments.</sub>
+  <b>Building practical IT labs, networking projects, and troubleshooting solutions. Focused on real-world infrastructure, systems and enterprise IT environments. </b>
 </p>
 
 <br>
@@ -110,8 +110,14 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+<br>
 
----
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,50:00D9FF,100:8B5CF6&height=3"
+    width="90%"
+  />
+</p>
 
 ## 🚀 What I'm Building
 
@@ -132,7 +138,6 @@
 <img src="https://img.shields.io/badge/ROUTING%20%26%20SWITCHING-C73555?style=for-the-badge">
 </p>
 
----
 
 ### 🏢 Enterprise Infrastructure Labs
 
@@ -147,8 +152,6 @@
 <img src="https://img.shields.io/badge/INFRASTRUCTURE-8A45D8?style=for-the-badge">
 <img src="https://img.shields.io/badge/TROUBLESHOOTING-9655DF?style=for-the-badge">
 </p>
-
----
 
 ### 🖥️ IT Support Labs
 
@@ -165,6 +168,14 @@
 <img src="https://img.shields.io/badge/DNS%20%26%20DHCP-9655DF?style=for-the-badge">
 <img src="https://img.shields.io/badge/TROUBLESHOOTING-A83BC0?style=for-the-badge">
 <img src="https://img.shields.io/badge/TECHNICAL%20DOCUMENTATION-C73555?style=for-the-badge">
+</p>
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,50:00D9FF,100:8B5CF6&height=3"
+    width="90%"
+  />
 </p>
 
 ## 🏆 Certifications & Learning
@@ -184,7 +195,14 @@
 <img src="https://img.shields.io/badge/CCNA%3A_Enterprise_Networking%2C_Security%2C_and_Automation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
----
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,50:00D9FF,100:8B5CF6&height=3"
+    width="90%"
+  />
+</p>
 
 
 
@@ -201,7 +219,14 @@
 
 </div>
 
----
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,50:00D9FF,100:8B5CF6&height=3"
+    width="90%"
+  />
+</p>
 
 <div align="center">
 
