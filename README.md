@@ -1,18 +1,39 @@
-<div align="center">
+<!-- ================= HEADER ================= -->
 
-# 👋 Hi, I'm Shano Mufeen
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=IT+Support+Engineer;Networking+%26+Infrastructure;Building+Practical+IT+Labs;Networking+%7C+Troubleshooting+%7C+Infrastructure" alt="Typing SVG" />
-
-<br>
-</div>
 <p align="center">
-Building practical IT labs, networking projects, and troubleshooting solutions
-<br>
-focused on real-world infrastructure and support environments.
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:161B22,100:0A192F&text=SHANO%20MUFEEN&fontSize=48&fontColor=00FF9C&fontAlignY=42&desc=IT%20Support%20Engineer%20%7C%20Networking%20%26%20Infrastructure&descAlignY=62&descSize=18&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
-</div>
+<p align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=IT+Support+Engineer;Junior+Network+Engineer;Networking+%26+Infrastructure;Windows+%7C+Linux+%7C+Cloud;Building+Practical+IT+Labs;Troubleshooting+Real-World+IT+Problems"
+  alt="Typing SVG"
+/>
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IT%20SUPPORT-00FF9C?style=for-the-badge&logo=windows&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/NETWORKING-00D9FF?style=for-the-badge&logo=cisco&logoColor=0D1117">
+  <img src="https://img.shields.io/badge/INFRASTRUCTURE-8B5CF6?style=for-the-badge&logo=serverfault&logoColor=white">
+  <img src="https://img.shields.io/badge/TROUBLESHOOTING-FFB000?style=for-the-badge&logo=probot&logoColor=0D1117">
+</p>
+
+<br>
+
+<p align="center">
+  <b>Building practical IT labs, networking projects, and troubleshooting solutions</b>
+  <br>
+  <sub>Focused on real-world infrastructure, systems and enterprise IT environments.</sub>
+</p>
+
+<br>
+
+<!-- ================= ABOUT ME ================= -->
 
 ## 🧑‍💻 About Me
 
@@ -23,7 +44,14 @@ focused on real-world infrastructure and support environments.
 - 📚 Continuously developing practical technical skills
 - 🚀 Building projects around **job-ready IT & networking skills**
 
----
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,50:00D9FF,100:8B5CF6&height=3"
+    width="90%"
+  />
+</p>
 
 ## 🛠️ Technical Skills
 
