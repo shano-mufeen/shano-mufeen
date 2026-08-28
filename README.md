@@ -1,13 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Shano Mufeen
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=IT+Support+Engineer;Networking+%26+Infrastructure;Building+Practical+IT+Labs;Troubleshooting+%7C+Learning+%7C+Building" alt="Typing SVG" />
 
-### IT Support Engineer | Networking & Infrastructure
+<br>
 
-I build **practical IT labs, networking projects, and troubleshooting solutions**  
+### 🖥️ IT Support Engineer | 🌐 Networking & Infrastructure
+
+<p>
+Building practical IT labs, networking projects, and troubleshooting solutions
+<br>
 focused on real-world infrastructure and support environments.
-
-Currently working on hands-on projects covering **networking, systems, infrastructure, troubleshooting, and enterprise IT environments** — while documenting what I build and learn along the way.
+</p>
 
 </div>
 
@@ -20,7 +23,7 @@ Currently working on hands-on projects covering **networking, systems, infrastru
 - 🔧 Interested in **Network Troubleshooting & IT Operations**
 - 🏢 Focused on real-world **Enterprise IT environments**
 - 📚 Continuously developing practical technical skills
-- 🚀 Building projects specifically around **job-ready IT & networking skills**
+- 🚀 Building projects around **job-ready IT & networking skills**
 
 ---
 
@@ -28,22 +31,54 @@ Currently working on hands-on projects covering **networking, systems, infrastru
 
 ### 🌐 Networking
 
-`TCP/IP` `IPv4` `Subnetting` `VLAN` `DHCP` `DNS` `NAT`  
-`OSPF` `HSRP` `ACL` `IPsec VPN` `Routing & Switching`
+<p>
+<img src="https://img.shields.io/badge/TCP%2FIP-1E293B?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPv4-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Subnetting-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLAN-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DHCP-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DNS-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NAT-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OSPF-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HSRP-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ACL-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IPsec_VPN-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Routing_%26_Switching-1E293B?style=for-the-badge"/>
+</p>
 
 ### 🖥️ Systems & IT Support
 
-`Windows` `Windows Server` `Microsoft 365` `VirtualBox`  
+<p>
+<img src="https://img.shields.io/badge/Windows-1E293B?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Server-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft_365-1E293B?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-1E293B?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+</p>
+
 `System Troubleshooting` `User Support` `Incident Handling`  
 `Access Management` `Technical Documentation`
 
 ### 🔧 Networking Tools
 
-`Cisco IOS` `Cisco Packet Tracer` `Wireshark` `Nmap` `PuTTY`
+<p>
+<img src="https://img.shields.io/badge/Cisco_IOS-111827?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-111827?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PuTTY-111827?style=for-the-badge"/>
+</p>
 
 ### 💻 Software & Development
 
-`HTML` `CSS` `JavaScript` `PHP` `SQL` `MySQL` `Git` `GitHub`
+<p>
+<img src="https://img.shields.io/badge/HTML5-1E293B?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1E293B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-1E293B?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
@@ -86,53 +121,50 @@ Hands-on scenarios involving:
 
 ---
 
-## 📂 Project Series
-
-I'm building my GitHub as a **practical IT portfolio**, not just a collection of code.
-
-| Series | Focus |
-|---|---|
-| 🖥️ IT Support Labs | Real-world support & troubleshooting |
-| 🌐 Networking Labs | Networking fundamentals & configuration |
-| 🏢 Enterprise Network Labs | Enterprise infrastructure scenarios |
-| 🔐 Network Security Labs | ACL, VPN & security concepts |
-| ⚙️ Infrastructure Labs | Systems & IT infrastructure |
-| 📚 Learning Projects | Concepts converted into practical labs |
-
-> Each project includes the **objective, environment, configuration, troubleshooting process, and outcome**.
-
----
-
 ## 🏆 Certifications & Learning
 
-- 🎓 Google IT Support Professional Certificate
-- ☁️ Microsoft Azure Fundamentals
-- ☁️ Microsoft 365 Essentials
-- 🌐 CCNA: Introduction to Networks
-- 🔀 CCNA: Switching, Routing, and Wireless Essentials
-- 🏢 CCNA: Enterprise Networking, Security, and Automation
+- 🎓 **Google IT Support Professional Certificate**
+- ☁️ **Microsoft Azure Fundamentals**
+- ☁️ **Microsoft 365 Essentials: Create, Collaborate, and Deliver**
+- 🌐 **CCNA: Introduction to Networks**
+- 🔀 **CCNA: Switching, Routing, and Wireless Essentials**
+- 🏢 **CCNA: Enterprise Networking, Security, and Automation**
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" />
 
-## 🏅 GitHub Badges
+</div>
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&no-frame=true&no-bg=true&margin-w=6)
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-**LinkedIn:** [linkedin.com/in/mufeen-shano](https://linkedin.com/in/mufeen-shano)
+<div align="center">
 
-**Email:** mufeenshano@gmail.com
+<a href="https://linkedin.com/in/mufeen-shano">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mufeenshano@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -140,6 +172,6 @@ I'm building my GitHub as a **practical IT portfolio**, not just a collection of
 
 ### 💡 Build. Troubleshoot. Document. Improve.
 
-> Turning what I learn into practical projects and real-world IT solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Turning+learning+into+practical+IT+solutions.;Building+one+lab+at+a+time.;Always+learning.+Always+building." alt="Typing animation" />
 
 </div>
