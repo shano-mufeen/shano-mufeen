@@ -3,9 +3,9 @@
 
 <div align="center">
 
-<h1 style="font-family: 'JetBrains Mono', monospace; font-size: 42px;">
-  👋 Hi, I'm Shano Mufeen
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=39&duration=1&pause=999999&color=C9D1D9&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Shano" />
+
+</div>
 
 </div>
 
