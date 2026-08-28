@@ -5,12 +5,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=IT+Support+Engineer;Networking+%26+Infrastructure;Building+Practical+IT+Labs;Networking+%7C+Troubleshooting+%7C+Infrastructure" alt="Typing SVG" />
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=1f2937&style=for-the-badge" alt="Profile Views"/>
+</div>
+<p align="center">
+Building practical IT labs, networking projects, and troubleshooting solutions
+<br>
+focused on real-world infrastructure and support environments.
+</p>
 
 </div>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -87,52 +89,67 @@
 
 ### 🌐 Networking Labs
 
-> Practical networking environments designed to turn concepts into hands-on experience.
+<p>Practical networking environments focused on real-world infrastructure.</p>
 
-- 🔹 VLAN configuration
-- 🔹 IP addressing & subnetting
-- 🔹 Routing & switching
-- 🔹 DHCP & DNS
-- 🔹 OSPF
-- 🔹 NAT
-- 🔹 ACLs
-- 🔹 VPN
-- 🔹 Network troubleshooting
+<p>
+<img src="https://img.shields.io/badge/SUBNETTING-4353D8?style=for-the-badge">
+<img src="https://img.shields.io/badge/VLAN-4B3FC4?style=for-the-badge">
+<img src="https://img.shields.io/badge/DHCP-665CE6?style=for-the-badge">
+<img src="https://img.shields.io/badge/DNS-7146DF?style=for-the-badge">
+<img src="https://img.shields.io/badge/NAT-8054E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/OSPF-8A45D8?style=for-the-badge">
+<img src="https://img.shields.io/badge/HSRP-9655DF?style=for-the-badge">
+<img src="https://img.shields.io/badge/ACL-A83BC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/VPN-9B3FB5?style=for-the-badge">
+<img src="https://img.shields.io/badge/ROUTING%20%26%20SWITCHING-C73555?style=for-the-badge">
+</p>
+
+---
 
 ### 🏢 Enterprise Infrastructure Labs
 
-> Simulating real-world business environments and enterprise network scenarios.
+<p>Simulating real-world business and enterprise environments.</p>
 
-- 🔹 Multi-site network architecture
-- 🔹 Network segmentation
-- 🔹 Routing & redundancy
-- 🔹 Network security
-- 🔹 Infrastructure troubleshooting
+<p>
+<img src="https://img.shields.io/badge/MULTI--SITE-4353D8?style=for-the-badge">
+<img src="https://img.shields.io/badge/NETWORK%20SEGMENTATION-4B3FC4?style=for-the-badge">
+<img src="https://img.shields.io/badge/ROUTING-665CE6?style=for-the-badge">
+<img src="https://img.shields.io/badge/REDUNDANCY-7146DF?style=for-the-badge">
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-8054E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-8A45D8?style=for-the-badge">
+<img src="https://img.shields.io/badge/TROUBLESHOOTING-9655DF?style=for-the-badge">
+</p>
+
+---
 
 ### 🖥️ IT Support Labs
 
-> Recreating practical help-desk and internal IT support scenarios.
+<p>Practical scenarios based on real IT support environments.</p>
 
-- 🔹 Windows troubleshooting
-- 🔹 User & system access
-- 🔹 Software issues
-- 🔹 Connectivity problems
-- 🔹 Incident troubleshooting
-- 🔹 Technical documentation
-
----
+<p>
+<img src="https://img.shields.io/badge/WINDOWS-4353D8?style=for-the-badge">
+<img src="https://img.shields.io/badge/WINDOWS%20SERVER-4B3FC4?style=for-the-badge">
+<img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-665CE6?style=for-the-badge">
+<img src="https://img.shields.io/badge/POWERSHELL-7146DF?style=for-the-badge">
+<img src="https://img.shields.io/badge/LINUX-7146DF?style=for-the-badge">
+<img src="https://img.shields.io/badge/USER%20MANAGEMENT-8054E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/ACCESS%20CONTROL-8A45D8?style=for-the-badge">
+<img src="https://img.shields.io/badge/DNS%20%26%20DHCP-9655DF?style=for-the-badge">
+<img src="https://img.shields.io/badge/TROUBLESHOOTING-A83BC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/TECHNICAL%20DOCUMENTATION-C73555?style=for-the-badge">
+</p>
 
 ## 🏆 Certifications & Learning
 
 <p>
-<img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/> <br>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/CCNA%3A_Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/CCNA%3A_Switching%2C_Routing%2C_and_Wireless_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/CCNA%3A_Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/CCNA%3A_Switching%2C_Routing%2C_and_Wireless_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <br>
 </p>
 
 <p>
@@ -141,45 +158,7 @@
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B949E&text_color=C9D1D9&icon_color=58A6FF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B949E&text_color=C9D1D9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" />
-
-</div>
-
----
-
-## 🏅 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
@@ -188,9 +167,6 @@
 <a href="https://linkedin.com/in/mufeen-shano">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
-
 <a href="mailto:mufeenshano@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -200,8 +176,6 @@
 ---
 
 <div align="center">
-
-### 💡 Build. Troubleshoot. Document. Improve.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=650&lines=Turning+learning+into+practical+IT+solutions.;Building+one+lab+at+a+time.;Always+learning.+Always+building." alt="Typing Animation"/>
 
