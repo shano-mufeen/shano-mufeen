@@ -12,7 +12,7 @@
 <p align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=IT+Support+Engineer;Junior+Network+Engineer;Networking+%26+Infrastructure;Windows+%7C+Linux+%7C+Cloud;Building+Practical+IT+Labs;Troubleshooting+Real-World+IT+Problems"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=IT+Support+Engineer;Junior+Network+Engineer;Networking+%26+Infrastructure;Windows+%7C+Linux+%7C+Cloud;Building+Practical+IT+Labs;Troubleshooting+Real-World+IT+Problems"
   alt="Typing SVG"
 />
 
