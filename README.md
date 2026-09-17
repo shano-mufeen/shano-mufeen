@@ -37,12 +37,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🖥️ IT Support Engineer
-- 🌐 Building hands-on **Networking & Infrastructure Labs**
-- 🔧 Interested in **Network Troubleshooting & IT Operations**
-- 🏢 Focused on real-world **Enterprise IT environments**
-- 📚 Continuously developing practical technical skills
-- 🚀 Building projects around **job-ready IT & networking skills**
+-🌐 Focused on Network Engineering, NOC & Network Support
+-🔧 Hands-on experience with network troubleshooting and infrastructure labs
+-🖥️ Building practical skills in Windows, Windows Server & Active Directory
+-☁️ Developing knowledge of Microsoft 365, Azure/Entra ID & enterprise IT
+-📡 Working with Cisco IOS, Packet Tracer, Wireshark & Nmap
+-📚 Preparing for a career in Junior Network Engineering & IT Support
+-🎓 BEng (Hons) Software Engineering — London Metropolitan University
+-🇬🇧 Based in Greater London, United Kingdom
 
 <br>
 
